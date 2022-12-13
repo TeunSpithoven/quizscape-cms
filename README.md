@@ -10,7 +10,6 @@ React code staat in resources/js
 
 http://localhost:8000/dashboard
 
-
 dockerfile heeft nu composer en npm mar moet nog php 8.1 of hoger hebben idpv 5
 daarna nog sqlite maken en runnen die hap!
 
